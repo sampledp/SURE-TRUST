@@ -1,0 +1,2 @@
+This link provides the google sheet solution for GROCERY SALES analysis.
+https://docs.google.com/spreadsheets/d/1FkDJpOEBKLeqYdeduU7_J2a--3lPr1XoGHPEsFzBOLw/edit?usp=sharing
